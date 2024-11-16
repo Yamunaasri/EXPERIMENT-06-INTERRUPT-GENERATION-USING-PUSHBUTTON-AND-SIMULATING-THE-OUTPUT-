@@ -108,8 +108,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME: SHALINI K
-Reg No:212222240095
+NAME: Yamunaasri T S
+Reg No:212222240117
 ```
 ```c
 
